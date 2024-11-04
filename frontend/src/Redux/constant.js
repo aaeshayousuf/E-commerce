@@ -1,2 +1,2 @@
-export const BASE_URL = "http://localhost:5050"
+export const BASE_URL = "https://e-commerce-s0fd.onrender.com"
 export const USERS_URL = "/api/user";
